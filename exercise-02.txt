@@ -1,0 +1,23 @@
+
+Reorder the list, and separate each list items by 1 empty line.
+
+Tips:
+x - delete
+
+j - down
+h - up
+
+yy - yank line
+dd - (d)elete to voi(d) / delete line
+p - paste
+
+
+=======================================
+List:
+
+- item 5
+- item 6
+- item 1
+- item 4
+- item 2
+- item 3

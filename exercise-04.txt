@@ -1,0 +1,29 @@
+Remove all underscores from below list.
+Tips:
+j - down
+h -left
+l - right
+
+w - to beginning of (w)ord
+e - to next end of word
+b - to prev beginning of word
+
+^ - to beginning of line
+$ - to end of line
+
+d{navigation} - delete
+
+
+=======================================
+List:
+
+DELETE Citimall Bontang
+Hasan DELETE Basri Banjarmasin
+Sultan Hasanuddin DELETE, Makassar
+Alauddin Makassar
+Galuh Mas Karawang DELETE
+'DELETE' Solo Paragon Mall
+TSM Mak{DELETE}assar 'DELETE'
+Setiab{DELETE}{DELETE}udi Semarang
+Duta DELETEDELETE Mall Banjarma_sin
+DELETE Pentacity
